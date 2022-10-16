@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.NGramPartialTextMatch", "CosmosDb.NGramPartialTextMatch\CosmosDb.NGramPartialTextMatch.csproj", "{DDA852F5-D683-487E-BBAE-21330B709296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA852F5-D683-487E-BBAE-21330B709296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA852F5-D683-487E-BBAE-21330B709296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA852F5-D683-487E-BBAE-21330B709296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA852F5-D683-487E-BBAE-21330B709296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE735E7-C63E-4619-96DA-5397DD7602BB}
+	EndGlobalSection
+EndGlobal
